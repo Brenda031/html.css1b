@@ -3,7 +3,7 @@
 }
 
 .principal{
-    background: #CCCCCC;
+    background: #000000;
     padding: 30px;
 }
 
@@ -11,9 +11,7 @@
     padding-left: 20px;
 }
 
-.titulo-centralizado {
-    text-align: center
-}
+.titulo-centralizado {text-align: center}
 
 p {
     text-align: center;
@@ -24,7 +22,7 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #ffbfbf;
 }
 
 .itens {
@@ -32,7 +30,7 @@ em strong {
 }
 
 .beneficios {
-    background: #FFFFFF;
+    background: #000000;
     padding: 20px;
 }
 
@@ -43,6 +41,13 @@ ul {
     margin-right: 15%;
 }
 
-.imagembeneficios {
-    width: 50%;
+.listapreços {
+    width:100%
 }
+
+body {background-color:#000000}
+h1{color:white}
+h3{color:white}
+p{color:white}
+h2{color:white}
+li{color:white}
